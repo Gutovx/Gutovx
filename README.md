@@ -1,7 +1,7 @@
 # Hi there, I'm Augusto!
 
 - 🎓 IT Technician at [Fundação Liberato] – [Novo Hamburgo/RS]
-- 💻 Currently learning C#, SQL, HTML, CSS, JS, and Java.
+- 💻 Currently learning HTML, CSS, JS, Angular and Java.
 - 🤖 Interested in technical support, back-end/front-end development, and AI.
 - 🎯 Looking for opportunities in the IT field, with a focus on continuous learning and growth.
 
